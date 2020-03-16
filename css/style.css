@@ -173,6 +173,10 @@ body.blog.dark  article h4,
 body.blog.dark .sidebar .widget-title,
 body.blog.dark .widget-tags ul > li a:hover {
 	color:#fff;
+	text-shadow: 2px 2px 8px #fff;
+}
+.text-shadow-white{
+	text-shadow: 2px 2px 8px #fff;
 }
 body.dark .title-bg {
 	color: rgba(255, 255, 255, 0.07);
@@ -365,7 +369,7 @@ body.blog.dark .comments-list .comment-date {
 .page-title h2 span:nth-child(2)::before {
 	bottom: 105%;
 	color: #555;
-	-webkit-filter: blur(0.000001px);
+	
 }
 
 
@@ -627,7 +631,7 @@ section.bl-expand .bl-icon-close {
 .bl-main>section.topleft {
 	top: 0;
 	left: 0;
-	background-image: url('../images/main-photo.jpg');
+	background-image: url('../images/photo.jpg');
 	position: relative;
 	background-size: cover;
 	background-repeat: no-repeat;
