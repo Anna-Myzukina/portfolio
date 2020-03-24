@@ -36,11 +36,29 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## 1. HTML & CSS3
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+ Project | In GitHub | Live version | Collaborative or Solo 
+---|---| ---|---
+ [Embedding Images and Video](https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)| [EmbeddingImagesAndVideo](https://github.com/Anna-Myzukina/EmbeddingImagesAndVideo)| [YouTube-clone](https://anna-myzukina.github.io/EmbeddingImagesAndVideo/) | Collaborative
+ ---|---|---|---
+ [HTML Forms](https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms) | [form](https://github.com/Anna-Myzukina/form) | [Mint.com-clone](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Ftask%3DS#) | Collaborative
+ ---|---|---|---
+ [Positioning and Floating Elements](https://www.theodinproject.com/courses/html5-and-css3/lessons/positioning-and-floating-elements) | [positioningAndFloating](https://github.com/Anna-Myzukina/positioningAndFloating) | [New York Times-clone](https://anna-myzukina.github.io/positioningAndFloating/) | Collaborative
+ ---|---|---|---
+ []() | []() | []() Collaborative
+  | | | 
+  []() | []() | []() Collaborative
+ --- | --- | --- | ---
+  []() | []() | []() Collaborative
+ --- | --- | --- | ---
+  []() | []() | []() Collaborative
+ --- | --- | --- | ---
+  []() | []() | []() Collaborative
+ --- | --- | --- | ---
+ 
+
+
 
 ## 📝 License
 
