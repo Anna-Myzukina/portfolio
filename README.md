@@ -1,19 +1,14 @@
 # Project: Personal Portfolio
 
-Live version 
-# Project Name
+![screen](https://github.com/Anna-Myzukina/portfolio/blob/master/images/3.png)
 
-> One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML/CSS,
+- JS,
+- PHP
 
 ## Live Demo
 
@@ -21,37 +16,15 @@ Additional description about the project and its features.
 
 
 
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - Github: [Anna-Myzukina](https://github.com/Anna-Myzukina)
 - Twitter: [@twitterhandle](https://twitter.com/AnnaMuzykina)
 - Linkedin: [linkedin](https://www.linkedin.com/in/ann-muzykina/)
 
-👤 **Author2**
 
-- Github: [@Anna-Myzukina](https://github.com/githubhandle)
-- Twitter: [@AnnaMuzykina](https://twitter.com/twitterhandle)
-- Linkedin: [Anna Muzykina](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
