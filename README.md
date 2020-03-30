@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link]Anna Muzykina [portfolio](https://anna-myzukina.github.io/portfolio/)
+Anna Muzykina [portfolio](https://anna-myzukina.github.io/portfolio/)
 
 
 
